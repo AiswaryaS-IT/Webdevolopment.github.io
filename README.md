@@ -1,2 +1,2 @@
 # Webdevolopment.github.io
-Website to learn webdevolopment
+Website to learn webdevelopment
